@@ -24,15 +24,6 @@ Este projeto é uma simulação de um sistema de classificação para um jogador
 
 ---
 
-## O que é utilizado 🛠️
-
-- **Variáveis**: Armazenam a quantidade de vitórias, derrotas, saldo e rank do jogador.
-- **Operadores**: Realizam o cálculo do saldo e atualização do rank.
-- **Laços de repetição**: O loop `while` é usado para simular várias partidas até que o jogador atinja o rank "Imortal".
-- **Estruturas de decisão**: `switch` e `if...else` são usados para determinar o rank do jogador de acordo com seu saldo de vitórias.
-
----
-
 ## Regras de Classificação 
 
 O sistema de classificação do jogador é baseado na quantidade total de vitórias acumuladas:
